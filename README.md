@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Swaggill
+- 👀 I’m interested in Lua , JS 
+- 🌱 I’m currently learning Css , Html
+- 📫 How to reach me Discord : ѕωαggιℓℓ#7375
